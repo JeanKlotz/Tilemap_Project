@@ -1,0 +1,75 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 3
+  tags: []
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Ground
+    uniqueID: 1266906875
+    locked: 0
+  - name: Stair
+    uniqueID: 3645645499
+    locked: 0
+  - name: Wall_close_gap
+    uniqueID: 3482433623
+    locked: 0
+  - name: Wall
+    uniqueID: 1470218551
+    locked: 0
+  - name: Objects_Layer1
+    uniqueID: 2695029039
+    locked: 0
+  - name: Objects_Layer2
+    uniqueID: 2456705507
+    locked: 0
+  - name: Objects_Layer3
+    uniqueID: 2932106329
+    locked: 0
+  - name: WallUp_close_gap
+    uniqueID: 83737147
+    locked: 0
+  - name: WallUp
+    uniqueID: 2868406875
+    locked: 0
+  - name: ObjectUp
+    uniqueID: 2842614463
+    locked: 0
+  m_RenderingLayers:
+  - Default
